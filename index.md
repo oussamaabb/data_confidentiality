@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Confidentiality Policy
+It is understood and agreed to that the below identified discloser of confidential information may provide certain information that is and must be kept confidential. To ensure the protection of such information, and to preserve any confidentiality necessary under patent and/or trade secret laws, it is agreed that
 
-You can use the [editor on GitHub](https://github.com/oussamaabb/data_confidentiality/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+1. The Confidential Information to be disclosed can be described as and includes:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Invention description(s), technical and business information relating to proprietary ideas and inventions, ideas, patentable ideas, trade secrets, drawings and/or illustrations, patent searches, existing and/or contemplated products and services, research and development, production, costs, profit and margin information, finances and financial projections, customers, clients, marketing, and current or future business plans and models, regardless of whether such information is designated as “Confidential Information” at the time of its disclosure.
 
-### Markdown
+2. The Recipient agrees not to disclose the confidential information obtained from the discloser to anyone unless required to do so by law.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+3. This Agreement states the entire agreement between the parties concerning the disclosure of Confidential Information. Any addition or modification to this Agreement must be made in writing and signed by the parties.
 
-```markdown
-Syntax highlighted code block
+4. If any of the provisions of this Agreement are found to be unenforceable, the remainder shall be enforced as fully as possible and the unenforceable provision(s) shall be deemed modified to the limited extent required to permit enforcement of the Agreement as a whole.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/oussamaabb/data_confidentiality/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+WHEREFORE, the parties acknowledge that they have read and understand this Agreement and voluntarily accept the duties and obligations set forth herein.
